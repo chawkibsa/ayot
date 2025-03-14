@@ -1,4 +1,3 @@
-![AYOT LOGO](https://github.com/Chawki-BS/AYOT/assets/86046707/78af343b-294d-4fa1-9cc0-31fc3fef7757)
 # AYOT
 AYOT is a Python-based command-line tool for analyzing web pages and performing various operations such as port scanning, domain lookup, and form analysis. This tool uses the following libraries:
 - 'requests' for making HTTP requests
