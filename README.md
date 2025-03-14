@@ -8,13 +8,13 @@ AYOT is a Python-based command-line tool for analyzing web pages and performing 
 ## Installation
 You can clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/Chawki-BS/AYOT.git
+git clone https://github.com/chawkibsa/ayot.git
 ```
 To install the dependencies, run the following command:
 ```
 pip install -r requirements.txt
 ```
-![1](https://github.com/Chawki-BS/AYOT/assets/86046707/18c23ee8-4e2a-420f-a1ba-7137aca9ab8e)
+<!-- ![1](https://github.com/Chawki-BS/AYOT/assets/86046707/18c23ee8-4e2a-420f-a1ba-7137aca9ab8e) -->
 To run the script, simply execute the main.py file using the following command:
 ```
 python main.py --help
